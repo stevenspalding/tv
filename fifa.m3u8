@@ -1,0 +1,19 @@
+#EXTM3U8 
+
+#EXTINF:0 logo="http://172.16.215.142/img/bindass.jpeg", FIFA - 9goaltv 1
+https://lisa.xonthebeach.net/live/itvuk_720p/index.m3u8
+
+#EXTINF:0 logo="http://172.16.215.142/img/utvaction.jpg", FIFA - Toffee Live 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+
+#EXTINF:0 logo="http://172.16.215.142/img/utvaction.jpg", FIFA - Toffee Live 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
+
+#EXTINF:0 logo="http://172.16.215.142/img/utvaction.jpg", FIFA - Toffee Live 1 (LOW)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+
+#EXTINF:0 logo="http://172.16.215.142/img/utvaction.jpg", FIFA - Toffee Live 2 (LOW)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
+
+#EXTINF:0 logo="http://172.16.215.142/img/tsports.jpg", FIFA - t-sports 1
+http://172.16.215.142/hls/t-sports.m3u8
