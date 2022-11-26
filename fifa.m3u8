@@ -6,7 +6,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 
-#EXTINF:0 logo="http://172.16.215.142/img/bindass.jpeg", FIFA - 9goaltv 1
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - 9goaltv 1
 https://lisa.xonthebeach.net/live/itvuk_720p/index.m3u8
 
 #EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - TyC Sports
@@ -17,6 +17,12 @@ https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
 
 #EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - FS1 US
 https://sami_rian1@lisa.xonthebeach.net/live/fs1us/index.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - Telemundo HD
+https://v-px.mybtv.net:443/live/39/1280x720.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - Telemundo SD
+https://v-px.mybtv.net:443/live/39/768x432.m3u8
 
 #EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (LOW)
 https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
@@ -35,6 +41,12 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
 
 #EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 2 (LOW | Premium)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (SD | Premium)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (SD)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
 
 #EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - bein sports 1
 https://lisa.xonthebeach.net/live/beinsportar_720p/index.m3u8
