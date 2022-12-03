@@ -1,5 +1,8 @@
 #EXTM3U8 
 
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - ASN Sports
+https://dbfd-103-94-134-112.ap.ngrok.io/hls/hkoscon.m3u8
+
 #EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (Premium)
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 
