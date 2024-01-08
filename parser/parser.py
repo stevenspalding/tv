@@ -34,7 +34,7 @@ def create_m3u8_playlist(json_file_path, output_m3u8_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python script.py <input_json_file> <output_m3u8_file>")
+        print("Usage: python parser.py <input_json_file> <output_m3u8_file>")
     else:
         input_json_path = sys.argv[1]
         output_m3u8_path = sys.argv[2]
