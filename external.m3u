@@ -1,0 +1,6 @@
+#EXTM3U size="medium"
+#EXTINF:0 type="playlist" description="Live TV", Eaminvai
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Eaminvai.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Aniket
+https://raw.githubusercontent.com/aniketda/iptv2050/main/iptv
