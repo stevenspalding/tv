@@ -1,6 +1,6 @@
 #EXTM3U size="medium"
 
-#EXTINF:0 type="playlist" size="large" description="Live TV", Free TV BD
+#EXTINF:0 type="playlist" description="Live TV", Free TV BD
 #EXTSIZE: Big
 #EXTBG: #11609e
 https://s.id/freetvbd
