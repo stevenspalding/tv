@@ -1,4 +1,8 @@
 #EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" size="large" description="Live TV", Free TV BD
+https://s.id/freetvbd
+
 #EXTINF:0 type="playlist" description="Live TV", Eamin
 https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Eaminvai.m3u
 
