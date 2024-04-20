@@ -1,0 +1,71 @@
+#EXTM3U
+
+# https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",BONGO  FLIX
+https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5TA&export=download&authuser=0&confirm=t&uuid=0ce15247-7f6a-408c-97dc-80941186a3c0&at=APZUnTUc83qnX-KAbC0MPXImV4Lq:1712522805001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="YAMIN VAI", T SPORTS  
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="YAMIN VAI", T SPORTS HD 
+http://103.77.218.14:8082/Tsports-2/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/0B6P42S/IMG-20240126-122314.jpg",BTV NATIONAL
+http://cdn01.palki.tv/live/BTV-M/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/KyFX6DY/IMG-20240212-075949.png",SANGSAD TV
+http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="YAMIN VAI",G TV 
+http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="YAMIN VAI",SOMOY TV
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="YAMIN VAI",JAMUNA TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",CHANNEL 24
+https://himel-op.top/api/ytop.m3u8?id=SOUt2eeU4ig
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png" group-title="YAMIN VAI",EKATTOR
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="YAMIN VAI",INDEPENDENT 
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png" group-title="YAMIN VAI",DBC NEWS
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png"group-title="YAMIN VAI",N TV
+https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="YAMIN VAI",News 24 HD
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/JphS5Vz/IMG-20240126-092252.png",SA TV
+http://cdn01.palki.tv/live/SATV-M/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI"tvg-logo="https://i.ibb.co/BK12TH7/IMG-20240126-092224.png",R TV
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/1nY7r1L/IMG-20240129-063448.jpg" group-title="YAMIN VAI",MY TV
+https://myflixbd.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sPqKzqb/IMG-20240126-111848.jpg" group-title="YAMIN VAI",JAGO NEWS 24
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN BANGLA 
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",BANGLAVISION
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI"tvg-logo="https://i.ibb.co/bvJByBV/IMG-20240126-112413.jpg",BIJOY TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/SQyR6TT/IMG-20240126-092532.png",BOISHAKHI TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",CHANNEL i
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/54LQ5Mz/IMG-20240126-092402.png",MOHONA TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="YAMIN VAI",MAASRANGA TV 
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",EKHON TV 
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",DEEPTO TV
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",ETV BANGLA
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yXL2Sf0/IMG-20240126-091323.png"group-title="YAMIN VAI",MILLENNIUM TV
+https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/BVJ8Bw9/IMG-20240126-112953.jpg",RAJDHANI TV
+https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MnQK7Gt/IMG-20240129-063323.png" group-title="YAMIN VAI",ASIAN TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/DYQ9NGM/IMG-20240129-064118.jpg",VARENDRA TV
+https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:-1 group-title="YAMIN VAI" tvg-logo="https://i.ibb.co/27tnt11/IMG-20240126-112025.jpg",CUMILLA TV
+http://103.149.142.133/0.m3u8
