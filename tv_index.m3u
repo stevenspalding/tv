@@ -1,0 +1,12 @@
+#EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" description="Live TV and Movies", Free TV BD
+#EXTSIZE: Big
+#EXTBG: #ff0000
+https://s.id/freetvbd
+
+#EXTINF:0 type="playlist" description="Live TV", S18 - Cloud TV
+https://stevenspalding.github.io/tv/s18_cloud_tv.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S17 - Palki TV
+https://stevenspalding.github.io/tv/s17_palki_tv.m3u8
