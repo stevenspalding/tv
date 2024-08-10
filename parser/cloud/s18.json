@@ -1,0 +1,524 @@
+[
+  {
+    "title": "nagorik",
+    "logo": "http://172.19.178.178/tv/img/nagorik.png",
+    "url": "http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sonysportsten5",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten5.png",
+    "url": "http://172.19.178.29:18190/CLOUD-TV-01/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "tsports",
+    "logo": "http://172.19.178.178/tv/img/tsports.png",
+    "url": "http://172.19.178.29:18190/CLOUD-TV-03/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "gtv",
+    "logo": "http://172.19.178.178/tv/img/gtv.png",
+    "url": "http://172.19.178.39:18190/JS-TV-01/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "maasranga",
+    "logo": "http://172.19.178.178/tv/img/maasranga.png",
+    "url": "http://172.19.178.39:18190/JS-TV-02/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "jamunatv",
+    "logo": "http://172.19.178.178/tv/img/jamunatv.png",
+    "url": "http://172.19.178.39:18190/JS-TV-03/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starsports1",
+    "logo": "http://172.19.178.178/tv/img/starsports1.png",
+    "url": "http://172.19.178.39:18190/JS-TV-04/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "somoytv",
+    "logo": "http://172.19.178.178/tv/img/somoytv.png",
+    "url": "http://172.19.178.39:18190/JS-TV-05/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "jalshamovies",
+    "logo": "http://172.19.178.178/tv/img/jalshamovies.png",
+    "url": "http://172.19.178.39:18190/JS-TV-06/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "channeli",
+    "logo": "http://172.19.178.178/tv/img/channeli.png",
+    "url": "http://172.19.178.39:18190/JS-TV-07/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starjalsha",
+    "logo": "http://172.19.178.178/tv/img/starjalsha.png",
+    "url": "http://172.19.178.39:18190/JS-TV-08/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "zeebangla",
+    "logo": "http://172.19.178.178/tv/img/zeebangla.png",
+    "url": "http://172.19.178.39:18190/JS-TV-09/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "nagorik",
+    "logo": "http://172.19.178.178/tv/img/nagorik.png",
+    "url": "http://172.19.178.39:18190/U-TV-01/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starsports1",
+    "logo": "http://172.19.178.178/tv/img/starsports1.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-00/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "sonysportsten2",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-01/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "zeebangla",
+    "logo": "http://172.19.178.178/tv/img/zeebangla.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-02/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starjalsha",
+    "logo": "http://172.19.178.178/tv/img/starjalsha.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-03/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sonysportsten2",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-04/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "nagorik",
+    "logo": "http://172.19.178.178/tv/img/nagorik.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-05/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "tsports",
+    "logo": "http://172.19.178.178/tv/img/tsports.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-06/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "nagorik",
+    "logo": "http://172.19.178.178/tv/img/nagorik.png",
+    "url": "http://172.19.178.49:18190/SN-ST-TV-07/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "atnnews",
+    "logo": "http://172.19.178.178/tv/img/atnnews.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-08/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "channeli",
+    "logo": "http://172.19.178.178/tv/img/channeli.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-09/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "channel24",
+    "logo": "http://172.19.178.178/tv/img/channel24.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-10/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "tsports",
+    "logo": "http://172.19.178.178/tv/img/tsports.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-11/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "dbc",
+    "logo": "http://172.19.178.178/tv/img/dbc.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-12/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "somoytv",
+    "logo": "http://172.19.178.178/tv/img/somoytv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-13/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "satv",
+    "logo": "http://172.19.178.178/tv/img/satv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-14/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sangsadbangladesh",
+    "logo": "http://172.19.178.178/tv/img/sangsadbangladesh.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-15/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "rtv",
+    "logo": "http://172.19.178.178/tv/img/rtv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-16/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "news24",
+    "logo": "http://172.19.178.178/tv/img/news24.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-17/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "nagorik",
+    "logo": "http://172.19.178.178/tv/img/nagorik.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-18/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "mohonatv",
+    "logo": "http://172.19.178.178/tv/img/mohonatv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-19/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "maasranga",
+    "logo": "http://172.19.178.178/tv/img/maasranga.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "jamunatv",
+    "logo": "http://172.19.178.178/tv/img/jamunatv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-21/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-22/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "gaanbanglatv",
+    "logo": "http://172.19.178.178/tv/img/gaanbanglatv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-23/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "gtv",
+    "logo": "http://172.19.178.178/tv/img/gtv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "ekusheytv",
+    "logo": "http://172.19.178.178/tv/img/ekusheytv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "duronto",
+    "logo": "http://172.19.178.178/tv/img/duronto.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "deshtv",
+    "logo": "http://172.19.178.178/tv/img/deshtv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-27/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "channel9",
+    "logo": "http://172.19.178.178/tv/img/channel9.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "btvworld",
+    "logo": "http://172.19.178.178/tv/img/btvworld.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "boishakhitv",
+    "logo": "http://172.19.178.178/tv/img/boishakhitv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "banglavision",
+    "logo": "http://172.19.178.178/tv/img/banglavision.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "atnbangla",
+    "logo": "http://172.19.178.178/tv/img/atnbangla.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "asian",
+    "logo": "http://172.19.178.178/tv/img/asian.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-34/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "71",
+    "logo": "http://172.19.178.178/tv/img/71.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-35/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "mytv",
+    "logo": "http://172.19.178.178/tv/img/mytv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-36/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "ntv",
+    "logo": "http://172.19.178.178/tv/img/ntv.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-38/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.59:18190/SN-ST-TV-39/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-51/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-52/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-53/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-54/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-55/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-56/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-57/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-58/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-59/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-60/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-61/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-62/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-63/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "astrocricket",
+    "logo": "http://172.19.178.178/tv/img/astrocricket.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-64/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "beinsportsxtra",
+    "logo": "http://172.19.178.178/tv/img/beinsportsxtra.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-FOOTBALL1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-FOOTBALL2/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-FOOTBALL3/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-FOOTBALL4/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/SN-ST-TV-FOOTBALL5/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "gtv",
+    "logo": "http://172.19.178.178/tv/img/gtv.png",
+    "url": "http://172.19.178.39:18190/142-TV-01/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starsports2",
+    "logo": "http://172.19.178.178/tv/img/starsports2.png",
+    "url": "http://172.19.178.39:18190/142-TV-02/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "sonysportsten2",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
+    "url": "http://172.19.178.39:18190/142-TV-03/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "moviesnow",
+    "logo": "http://172.19.178.178/tv/img/moviesnow.png",
+    "url": "http://172.19.178.39:18190/142-TV-04/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "zeebangla",
+    "logo": "http://172.19.178.178/tv/img/zeebangla.png",
+    "url": "http://172.19.178.39:18190/142-TV-05/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starjalsha",
+    "logo": "http://172.19.178.178/tv/img/starjalsha.png",
+    "url": "http://172.19.178.39:18190/142-TV-06/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "jalshamovies",
+    "logo": "http://172.19.178.178/tv/img/jalshamovies.png",
+    "url": "http://172.19.178.39:18190/142-TV-07/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "tvlogo",
+    "logo": "http://172.19.178.178/tv/img/tvlogo.png",
+    "url": "http://172.19.178.19:18190/INT-TV-02/index.m3u8",
+    "category": "Noser"
+  },
+  {
+    "title": "gtv",
+    "logo": "http://172.19.178.178/tv/img/gtv.png",
+    "url": "http://172.19.178.19:18190/11-TV-01/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starsports1",
+    "logo": "http://172.19.178.178/tv/img/starsports1.png",
+    "url": "http://172.19.178.19:18190/11-TV-02/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "rtv",
+    "logo": "http://172.19.178.178/tv/img/rtv.png",
+    "url": "http://172.19.178.19:18190/INT-TV-01/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sonysportsten2",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
+    "url": "http://172.19.178.19:18845/memfs/5d5bbfb9-c9a9-467e-949e-0bbee9e6fddd.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "sonysportsten2",
+    "logo": "http://172.19.178.178/tv/img/sonysportsten2.png",
+    "url": "http://172.19.178.19:18845/memfs/ca1db78f-40b0-49f7-b60b-c739cf47f13d.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "deepto",
+    "logo": "http://172.19.178.178/tv/img/deepto.png",
+    "url": "http://172.19.178.19:18190/IX-TV-01/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "nick",
+    "logo": "http://172.19.178.178/tv/img/nick.png",
+    "url": "http://172.19.178.19:18190/CL-TV-01/index.m3u8",
+    "category": "Cartoon"
+  }
+]
