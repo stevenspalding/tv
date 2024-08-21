@@ -19,3 +19,15 @@ https://raw.githubusercontent.com/subirkumarpaul/Subir-Max/master/Discover%20TV
 
 #EXTINF:0 type="playlist" description="Live TV", Yamin 2.0
 https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 1
+https://sohag1192.github.io/BDIX-IPTV/iptv-1.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 2
+https://sohag1192.github.io/BDIX-IPTV/iptv-2.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 3
+https://sohag1192.github.io/BDIX-IPTV/iptv-3.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 4
+https://sohag1192.github.io/BDIX-IPTV/iptv-4.m3u
