@@ -1,0 +1,220 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf8">
+
+        <title>Telescope</title>
+        <!-- Latest compiled and minified CSS 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">-->
+		<link href="css/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/video-js.css" rel="stylesheet">
+		
+		<link href="css/style.css" rel="stylesheet">
+		<link href="css/custom.css" rel="stylesheet">
+        <!-- jQuery library -->
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+
+        <!-- Popper JS -->
+		<script type="text/javascript" src="js/popper.min.js"></script>
+		<script type="text/javascript" src="js/popper.min.js"></script>
+
+        <!-- Latest compiled JavaScript -- >
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
+        <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">-->
+        
+
+        <!--[if lt IE 9]>
+                <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+                <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+		
+        <script type="text/javascript" src="js/clappr.min.js"></script>
+        <script type="text/javascript" src="js/clappr-chromecast-plugin.min.js"></script>
+		
+        <style class="clappr-style">
+            @font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(https://cdn.jsdelivr.net/npm/clappr@latest/dist/38861cba61c66739c1452c3a71e39852.ttf) format("truetype")}
+            body {
+                background: #000 url(img/bg2.jpg) top center;
+            }
+        </style>
+    </head>
+    <body>
+
+	<nav class="navbar navbar-expand-lg fixed-top navbar-dark " style=" background-color: rgba(33,37,41, 0.7) !important;">
+	  <div class="container-fluid">
+		<a class="navbar-brand" href="#"> <img src="img/vcfinalshot.png" style="width:40px;" alt=""></a>
+		<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+		  <span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="navbar-collapse justify-content-between collapse" id="navbarTogglerDemo02" style="">
+		  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+			<li class="nav-item">
+			  <a class="nav-link active" aria-current="page" href="#">Earth</a>
+			</li>
+			<li class="nav-item">
+			  <a class="nav-link" href="#">Sun</a>
+			</li>
+			<li class="nav-item">
+			  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Blackhole</a>
+			</li>
+		  </ul>
+		</div>
+	  </div>
+	</nav>
+	
+        <div class="container-fluid mt-5 pt-2">
+            <div class="row justify-content-center" style="margin-top: 50px;">
+
+                <div class="col-12 col-lg-8">
+                    <div class="embed-responsive embed-responsive-16by9 embed-responsive-all rounded">
+                        <div id="player" class="embed-responsive-item">
+                            <video id="vid1" class="video-js vjs-default-skin vjs-fluid" poster="img/tvposter.png" width="640" height="360" controls autoplay preload="none" data-setup='{ "techOrder": ["html5", "flash", "youtube"], "sources": [{ "type": "application/x-mpegURL", "src": "http://172.16.88.10:18190/btv/index.m3u8"}]}'></video>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg-4">
+                    <div class="channel-list">
+                        <ul class="nav nav-tabs nav-justified" style=" margin-bottom: 15px;">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="#" data-type="Bangla">Bangla</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="KBangla">Kolkata</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="English">English</a>
+                            </li
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="Hindi">Hindi</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="Sports">Sports</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="Cartoon">Cartoon</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="Music">Music</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="Docs">Documentary</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#"  data-type="News">News</a>
+                            </li>
+                        </ul>
+                        <ul id="vidlink" class="thumbnail-slider d-flex flex-wrap">
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/btv/index.m3u8"><img src="img/btv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/atnbangla/index.m3u8"><img src="img/atnbangla.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/gtv/index.m3u8"><img src="img/gtv.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/zeebanglacinema/index.m3u8"><img src="img/zeebanglacinema.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/starplus/index.m3u8"><img src="img/starplus.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/starbharat/index.m3u8"><img src="img/starbharat.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/stargold/index.m3u8"><img src="img/stargold.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/stargoldromance/index.m3u8"><img src="img/stargoldromance.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/zeetv/index.m3u8"><img src="img/zeetv.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/zeebollywood/index.m3u8"><img src="img/zeebollywood.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/zeecinema/index.m3u8"><img src="img/zeecinema.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/zeeaction/index.m3u8"><img src="img/zeeaction.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/andtv/index.m3u8"><img src="img/andtv.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/andpictures/index.m3u8"><img src="img/andpictures.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/sonyentertainmenttelevision/index.m3u8"><img src="img/sonyentertainmenttelevision.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/colors/index.m3u8"><img src="img/colors.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/sonymax/index.m3u8"><img src="img/sonymax.png" alt=""></a></li>
+                            <li class="Cartoon"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/cartoonnetwork/index.m3u8"><img src="img/cartoonnetwork.png" alt=""></a></li>
+                            <li class="Cartoon"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/nick/index.m3u8"><img src="img/nick.png" alt=""></a></li>
+                            <li class="Cartoon"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.10:18190/nickjr/index.m3u8"><img src="img/nickjr.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/nationalgeographic/index.m3u8"><img src="img/nationalgeographic.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/natgeowild/index.m3u8"><img src="img/natgeowild.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/starlife/index.m3u8"><img src="img/starlife.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/discovery/index.m3u8"><img src="img/discovery.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/discoveryscience/index.m3u8"><img src="img/discoveryscience.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/animalplanet/index.m3u8"><img src="img/animalplanet.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/tlc/index.m3u8"><img src="img/tlc.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/sonybbcearth/index.m3u8"><img src="img/sonybbcearth.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/historytv/index.m3u8"><img src="img/historytv.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/travelxp/index.m3u8"><img src="img/travelxp.png" alt=""></a></li>
+                            <li class="Docs"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/foodnetwork/index.m3u8"><img src="img/foodnetwork.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/starsports1/index.m3u8"><img src="img/starsports1.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/starsportsselect1/index.m3u8"><img src="img/starsportsselect1.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/starsports2/index.m3u8"><img src="img/starsports2.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/starsportsselect2/index.m3u8"><img src="img/starsportsselect2.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/sonysportsten1/index.m3u8"><img src="img/sonysportsten1.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/sonysportsten2/index.m3u8"><img src="img/sonysportsten2.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/zeebangla/index.m3u8"><img src="img/zeebangla.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/sonysportsten5/index.m3u8"><img src="img/sonysportsten5.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.20:18190/eurosport/index.m3u8"><img src="img/eurosport.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/tencricket/index.m3u8"><img src="img/tencricket.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/starmovies/index.m3u8"><img src="img/starmovies.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/sonysportsten3/index.m3u8"><img src="img/sonysportsten3.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/starmoviesselect/index.m3u8"><img src="img/starmoviesselect.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/zeecafe/index.m3u8"><img src="img/zeecafe.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/sonypix/index.m3u8"><img src="img/sonypix.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/andflix/index.m3u8"><img src="img/andflix.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/axn/index.m3u8"><img src="img/axn.png" alt=""></a></li>
+                            <li class="English"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/hbo/index.m3u8"><img src="img/hbo.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/jalshamovies/index.m3u8"><img src="img/jalshamovies.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/atnnews/index.m3u8"><img src="img/atnnews.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/jamunatv/index.m3u8"><img src="img/jamunatv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/channel24/index.m3u8"><img src="img/channel24.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/71/index.m3u8"><img src="img/71.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/somoytv/index.m3u8"><img src="img/somoytv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/ntv/index.m3u8"><img src="img/ntv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/rtv/index.m3u8"><img src="img/rtv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/deepto/index.m3u8"><img src="img/deepto.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/independent/index.m3u8"><img src="img/independent.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.30:18190/maasranga/index.m3u8"><img src="img/maasranga.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/duronto/index.m3u8"><img src="img/duronto.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/nagorik/index.m3u8"><img src="img/nagorik.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/news24/index.m3u8"><img src="img/news24.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/mytv/index.m3u8"><img src="img/mytv.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/sonyaath/index.m3u8"><img src="img/sonyaath.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/banglavision/index.m3u8"><img src="img/banglavision.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/sunbangla/index.m3u8"><img src="img/sunbangla.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/enterr10bangla/index.m3u8"><img src="img/enterr10bangla.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/tsports/index.m3u8"><img src="img/tsports.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/sports18/index.m3u8"><img src="img/sports18.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/starsports3/index.m3u8"><img src="img/starsports3.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/asports/index.m3u8"><img src="img/asports.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/tensports/index.m3u8"><img src="img/tensports.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/channeli/index.m3u8"><img src="img/channeli.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/satv/index.m3u8"><img src="img/satv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/btvworld/index.m3u8"><img src="img/btvworld.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/deshtv/index.m3u8"><img src="img/deshtv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/ekusheytv/index.m3u8"><img src="img/ekusheytv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/channel9/index.m3u8"><img src="img/channel9.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.40:18190/boishakhitv/index.m3u8"><img src="img/boishakhitv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/globaltelevision/index.m3u8"><img src="img/globaltelevision.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/ekhon/index.m3u8"><img src="img/ekhon.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/asian/index.m3u8"><img src="img/asian.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/nexustelevision/index.m3u8"><img src="img/nexustelevision.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/gaanbanglatvindex.m3u8"><img src="img/gaanbanglatv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/banglavision/index.m3u8"><img src="img/banglavision.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/mohonatv/index.m3u8"><img src="img/mohonatv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/bijoytv/index.m3u8"><img src="img/bijoytv.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/dbc/index.m3u8"><img src="img/dbc.png" alt=""></a></li>
+                            <li class="Bangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/channels/index.m3u8"><img src="img/channels.png" alt=""></a></li>
+                            <li class="KBangla"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/starjalsha/index.m3u8"><img src="img/starjalsha.png" alt=""></a></li>
+                            <li class="Sports"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/starsports1/index.m3u8"><img src="img/starsports1.png" alt=""></a></li>
+                            <li class="Cartoon"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/nick/index.m3u8"><img src="img/nick.png" alt=""></a></li>
+                            <li class="Cartoon"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/disnepchannel/index.m3u8"><img src="img/disnepchannel.png" alt=""></a></li>
+                            <li class="Music"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/zoom/index.m3u8"><img src="img/zoom.png" alt=""></a></li>
+                            <li class="Cartoon"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/sonyyay/index.m3u8"><img src="img/sonyyay.png" alt=""></a></li>
+                            <li class="Music"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/b4umovies/index.m3u8"><img src="img/b4umovies.png" alt=""></a></li>
+                            <li class="Hindi"><a id="myLink" title="Click" href="javascript:;" class='channel' data-link="http://172.16.88.50:18190/sonymax2/index.m3u8"><img src="img/sonymax2.png" alt=""></a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+		
+		<script type="text/javascript" src="css/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="js/video.js"></script>
+		<script type="text/javascript" src="js/videojs-http-streaming.min.js"></script>
+        <script src="js/scripts.js"></script>
+    </body>
+</html>

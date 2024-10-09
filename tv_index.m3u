@@ -5,6 +5,9 @@
 #EXTBG: #ff0000
 https://s.id/freetvbd
 
+#EXTINF:0 type="playlist" description="Live TV", S19 - Telescope
+https://stevenspalding.github.io/tv/s19_telescope.m3u8
+
 #EXTINF:0 type="playlist" description="Live TV", S18 - Cloud TV
 https://stevenspalding.github.io/tv/s18_cloud_tv.m3u8
 

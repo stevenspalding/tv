@@ -1,0 +1,590 @@
+[
+  {
+    "title": "btv",
+    "logo": "http://172.16.88.88/img/btv.png",
+    "url": "http://172.16.88.10:18190/btv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "atnbangla",
+    "logo": "http://172.16.88.88/img/atnbangla.png",
+    "url": "http://172.16.88.10:18190/atnbangla/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "gtv",
+    "logo": "http://172.16.88.88/img/gtv.png",
+    "url": "http://172.16.88.10:18190/gtv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "zeebanglacinema",
+    "logo": "http://172.16.88.88/img/zeebanglacinema.png",
+    "url": "http://172.16.88.10:18190/zeebanglacinema/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "starplus",
+    "logo": "http://172.16.88.88/img/starplus.png",
+    "url": "http://172.16.88.10:18190/starplus/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "starbharat",
+    "logo": "http://172.16.88.88/img/starbharat.png",
+    "url": "http://172.16.88.10:18190/starbharat/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "stargold",
+    "logo": "http://172.16.88.88/img/stargold.png",
+    "url": "http://172.16.88.10:18190/stargold/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "stargoldromance",
+    "logo": "http://172.16.88.88/img/stargoldromance.png",
+    "url": "http://172.16.88.10:18190/stargoldromance/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "zeetv",
+    "logo": "http://172.16.88.88/img/zeetv.png",
+    "url": "http://172.16.88.10:18190/zeetv/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "zeebollywood",
+    "logo": "http://172.16.88.88/img/zeebollywood.png",
+    "url": "http://172.16.88.10:18190/zeebollywood/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "zeecinema",
+    "logo": "http://172.16.88.88/img/zeecinema.png",
+    "url": "http://172.16.88.10:18190/zeecinema/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "zeeaction",
+    "logo": "http://172.16.88.88/img/zeeaction.png",
+    "url": "http://172.16.88.10:18190/zeeaction/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "andtv",
+    "logo": "http://172.16.88.88/img/andtv.png",
+    "url": "http://172.16.88.10:18190/andtv/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "andpictures",
+    "logo": "http://172.16.88.88/img/andpictures.png",
+    "url": "http://172.16.88.10:18190/andpictures/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "sonyentertainmenttelevision",
+    "logo": "http://172.16.88.88/img/sonyentertainmenttelevision.png",
+    "url": "http://172.16.88.10:18190/sonyentertainmenttelevision/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "colors",
+    "logo": "http://172.16.88.88/img/colors.png",
+    "url": "http://172.16.88.10:18190/colors/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "sonymax",
+    "logo": "http://172.16.88.88/img/sonymax.png",
+    "url": "http://172.16.88.10:18190/sonymax/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "cartoonnetwork",
+    "logo": "http://172.16.88.88/img/cartoonnetwork.png",
+    "url": "http://172.16.88.10:18190/cartoonnetwork/index.m3u8",
+    "category": "Cartoon"
+  },
+  {
+    "title": "nick",
+    "logo": "http://172.16.88.88/img/nick.png",
+    "url": "http://172.16.88.10:18190/nick/index.m3u8",
+    "category": "Cartoon"
+  },
+  {
+    "title": "nickjr",
+    "logo": "http://172.16.88.88/img/nickjr.png",
+    "url": "http://172.16.88.10:18190/nickjr/index.m3u8",
+    "category": "Cartoon"
+  },
+  {
+    "title": "nationalgeographic",
+    "logo": "http://172.16.88.88/img/nationalgeographic.png",
+    "url": "http://172.16.88.20:18190/nationalgeographic/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "natgeowild",
+    "logo": "http://172.16.88.88/img/natgeowild.png",
+    "url": "http://172.16.88.20:18190/natgeowild/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "starlife",
+    "logo": "http://172.16.88.88/img/starlife.png",
+    "url": "http://172.16.88.20:18190/starlife/index.m3u8",
+    "category": "Hindi"
+  },
+  {
+    "title": "discovery",
+    "logo": "http://172.16.88.88/img/discovery.png",
+    "url": "http://172.16.88.20:18190/discovery/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "discoveryscience",
+    "logo": "http://172.16.88.88/img/discoveryscience.png",
+    "url": "http://172.16.88.20:18190/discoveryscience/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "animalplanet",
+    "logo": "http://172.16.88.88/img/animalplanet.png",
+    "url": "http://172.16.88.20:18190/animalplanet/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "tlc",
+    "logo": "http://172.16.88.88/img/tlc.png",
+    "url": "http://172.16.88.20:18190/tlc/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "sonybbcearth",
+    "logo": "http://172.16.88.88/img/sonybbcearth.png",
+    "url": "http://172.16.88.20:18190/sonybbcearth/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "historytv",
+    "logo": "http://172.16.88.88/img/historytv.png",
+    "url": "http://172.16.88.20:18190/historytv/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "travelxp",
+    "logo": "http://172.16.88.88/img/travelxp.png",
+    "url": "http://172.16.88.20:18190/travelxp/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "foodnetwork",
+    "logo": "http://172.16.88.88/img/foodnetwork.png",
+    "url": "http://172.16.88.20:18190/foodnetwork/index.m3u8",
+    "category": "Docs"
+  },
+  {
+    "title": "starsports1",
+    "logo": "http://172.16.88.88/img/starsports1.png",
+    "url": "http://172.16.88.20:18190/starsports1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "starsportsselect1",
+    "logo": "http://172.16.88.88/img/starsportsselect1.png",
+    "url": "http://172.16.88.20:18190/starsportsselect1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "starsports2",
+    "logo": "http://172.16.88.88/img/starsports2.png",
+    "url": "http://172.16.88.20:18190/starsports2/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starsportsselect2",
+    "logo": "http://172.16.88.88/img/starsportsselect2.png",
+    "url": "http://172.16.88.20:18190/starsportsselect2/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "sonysportsten1",
+    "logo": "http://172.16.88.88/img/sonysportsten1.png",
+    "url": "http://172.16.88.20:18190/sonysportsten1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "sonysportsten2",
+    "logo": "http://172.16.88.88/img/sonysportsten2.png",
+    "url": "http://172.16.88.20:18190/sonysportsten2/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "zeebangla",
+    "logo": "http://172.16.88.88/img/zeebangla.png",
+    "url": "http://172.16.88.20:18190/zeebangla/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "sonysportsten5",
+    "logo": "http://172.16.88.88/img/sonysportsten5.png",
+    "url": "http://172.16.88.20:18190/sonysportsten5/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "eurosport",
+    "logo": "http://172.16.88.88/img/eurosport.png",
+    "url": "http://172.16.88.20:18190/eurosport/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "tencricket",
+    "logo": "http://172.16.88.88/img/tencricket.png",
+    "url": "http://172.16.88.30:18190/tencricket/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "starmovies",
+    "logo": "http://172.16.88.88/img/starmovies.png",
+    "url": "http://172.16.88.30:18190/starmovies/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "sonysportsten3",
+    "logo": "http://172.16.88.88/img/sonysportsten3.png",
+    "url": "http://172.16.88.30:18190/sonysportsten3/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "starmoviesselect",
+    "logo": "http://172.16.88.88/img/starmoviesselect.png",
+    "url": "http://172.16.88.30:18190/starmoviesselect/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "zeecafe",
+    "logo": "http://172.16.88.88/img/zeecafe.png",
+    "url": "http://172.16.88.30:18190/zeecafe/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "sonypix",
+    "logo": "http://172.16.88.88/img/sonypix.png",
+    "url": "http://172.16.88.30:18190/sonypix/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "andflix",
+    "logo": "http://172.16.88.88/img/andflix.png",
+    "url": "http://172.16.88.30:18190/andflix/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "axn",
+    "logo": "http://172.16.88.88/img/axn.png",
+    "url": "http://172.16.88.30:18190/axn/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "hbo",
+    "logo": "http://172.16.88.88/img/hbo.png",
+    "url": "http://172.16.88.30:18190/hbo/index.m3u8",
+    "category": "English"
+  },
+  {
+    "title": "jalshamovies",
+    "logo": "http://172.16.88.88/img/jalshamovies.png",
+    "url": "http://172.16.88.30:18190/jalshamovies/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "atnnews",
+    "logo": "http://172.16.88.88/img/atnnews.png",
+    "url": "http://172.16.88.30:18190/atnnews/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "jamunatv",
+    "logo": "http://172.16.88.88/img/jamunatv.png",
+    "url": "http://172.16.88.30:18190/jamunatv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "channel24",
+    "logo": "http://172.16.88.88/img/channel24.png",
+    "url": "http://172.16.88.30:18190/channel24/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "71",
+    "logo": "http://172.16.88.88/img/71.png",
+    "url": "http://172.16.88.30:18190/71/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "somoytv",
+    "logo": "http://172.16.88.88/img/somoytv.png",
+    "url": "http://172.16.88.30:18190/somoytv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "ntv",
+    "logo": "http://172.16.88.88/img/ntv.png",
+    "url": "http://172.16.88.30:18190/ntv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "rtv",
+    "logo": "http://172.16.88.88/img/rtv.png",
+    "url": "http://172.16.88.30:18190/rtv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "deepto",
+    "logo": "http://172.16.88.88/img/deepto.png",
+    "url": "http://172.16.88.30:18190/deepto/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "independent",
+    "logo": "http://172.16.88.88/img/independent.png",
+    "url": "http://172.16.88.30:18190/independent/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "maasranga",
+    "logo": "http://172.16.88.88/img/maasranga.png",
+    "url": "http://172.16.88.30:18190/maasranga/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "duronto",
+    "logo": "http://172.16.88.88/img/duronto.png",
+    "url": "http://172.16.88.40:18190/duronto/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "nagorik",
+    "logo": "http://172.16.88.88/img/nagorik.png",
+    "url": "http://172.16.88.40:18190/nagorik/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "news24",
+    "logo": "http://172.16.88.88/img/news24.png",
+    "url": "http://172.16.88.40:18190/news24/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "mytv",
+    "logo": "http://172.16.88.88/img/mytv.png",
+    "url": "http://172.16.88.40:18190/mytv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sonyaath",
+    "logo": "http://172.16.88.88/img/sonyaath.png",
+    "url": "http://172.16.88.40:18190/sonyaath/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "banglavision",
+    "logo": "http://172.16.88.88/img/banglavision.png",
+    "url": "http://172.16.88.40:18190/banglavision/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sunbangla",
+    "logo": "http://172.16.88.88/img/sunbangla.png",
+    "url": "http://172.16.88.40:18190/sunbangla/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "enterr10bangla",
+    "logo": "http://172.16.88.88/img/enterr10bangla.png",
+    "url": "http://172.16.88.40:18190/enterr10bangla/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "tsports",
+    "logo": "http://172.16.88.88/img/tsports.png",
+    "url": "http://172.16.88.40:18190/tsports/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "sports18",
+    "logo": "http://172.16.88.88/img/sports18.png",
+    "url": "http://172.16.88.40:18190/sports18/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "starsports3",
+    "logo": "http://172.16.88.88/img/starsports3.png",
+    "url": "http://172.16.88.40:18190/starsports3/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "asports",
+    "logo": "http://172.16.88.88/img/asports.png",
+    "url": "http://172.16.88.40:18190/asports/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "tensports",
+    "logo": "http://172.16.88.88/img/tensports.png",
+    "url": "http://172.16.88.40:18190/tensports/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "channeli",
+    "logo": "http://172.16.88.88/img/channeli.png",
+    "url": "http://172.16.88.40:18190/channeli/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "satv",
+    "logo": "http://172.16.88.88/img/satv.png",
+    "url": "http://172.16.88.40:18190/satv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "btvworld",
+    "logo": "http://172.16.88.88/img/btvworld.png",
+    "url": "http://172.16.88.40:18190/btvworld/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "deshtv",
+    "logo": "http://172.16.88.88/img/deshtv.png",
+    "url": "http://172.16.88.40:18190/deshtv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "ekusheytv",
+    "logo": "http://172.16.88.88/img/ekusheytv.png",
+    "url": "http://172.16.88.40:18190/ekusheytv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "channel9",
+    "logo": "http://172.16.88.88/img/channel9.png",
+    "url": "http://172.16.88.40:18190/channel9/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "boishakhitv",
+    "logo": "http://172.16.88.88/img/boishakhitv.png",
+    "url": "http://172.16.88.40:18190/boishakhitv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "globaltelevision",
+    "logo": "http://172.16.88.88/img/globaltelevision.png",
+    "url": "http://172.16.88.50:18190/globaltelevision/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "ekhon",
+    "logo": "http://172.16.88.88/img/ekhon.png",
+    "url": "http://172.16.88.50:18190/ekhon/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "asian",
+    "logo": "http://172.16.88.88/img/asian.png",
+    "url": "http://172.16.88.50:18190/asian/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "nexustelevision",
+    "logo": "http://172.16.88.88/img/nexustelevision.png",
+    "url": "http://172.16.88.50:18190/nexustelevision/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "gaanbanglatv",
+    "logo": "http://172.16.88.88/img/gaanbanglatv.png",
+    "url": "http://172.16.88.50:18190/gaanbanglatvindex.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "banglavision",
+    "logo": "http://172.16.88.88/img/banglavision.png",
+    "url": "http://172.16.88.50:18190/banglavision/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "mohonatv",
+    "logo": "http://172.16.88.88/img/mohonatv.png",
+    "url": "http://172.16.88.50:18190/mohonatv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "bijoytv",
+    "logo": "http://172.16.88.88/img/bijoytv.png",
+    "url": "http://172.16.88.50:18190/bijoytv/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "dbc",
+    "logo": "http://172.16.88.88/img/dbc.png",
+    "url": "http://172.16.88.50:18190/dbc/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "channels",
+    "logo": "http://172.16.88.88/img/channels.png",
+    "url": "http://172.16.88.50:18190/channels/index.m3u8",
+    "category": "Bangla"
+  },
+  {
+    "title": "starjalsha",
+    "logo": "http://172.16.88.88/img/starjalsha.png",
+    "url": "http://172.16.88.50:18190/starjalsha/index.m3u8",
+    "category": "KBangla"
+  },
+  {
+    "title": "starsports1",
+    "logo": "http://172.16.88.88/img/starsports1.png",
+    "url": "http://172.16.88.50:18190/starsports1/index.m3u8",
+    "category": "Sports"
+  },
+  {
+    "title": "nick",
+    "logo": "http://172.16.88.88/img/nick.png",
+    "url": "http://172.16.88.50:18190/nick/index.m3u8",
+    "category": "Cartoon"
+  },
+  {
+    "title": "disnepchannel",
+    "logo": "http://172.16.88.88/img/disnepchannel.png",
+    "url": "http://172.16.88.50:18190/disnepchannel/index.m3u8",
+    "category": "Cartoon"
+  },
+  {
+    "title": "zoom",
+    "logo": "http://172.16.88.88/img/zoom.png",
+    "url": "http://172.16.88.50:18190/zoom/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "title": "sonyyay",
+    "logo": "http://172.16.88.88/img/sonyyay.png",
+    "url": "http://172.16.88.50:18190/sonyyay/index.m3u8",
+    "category": "Cartoon"
+  },
+  {
+    "title": "b4umovies",
+    "logo": "http://172.16.88.88/img/b4umovies.png",
+    "url": "http://172.16.88.50:18190/b4umovies/index.m3u8",
+    "category": "Music"
+  },
+  {
+    "title": "sonymax2",
+    "logo": "http://172.16.88.88/img/sonymax2.png",
+    "url": "http://172.16.88.50:18190/sonymax2/index.m3u8",
+    "category": "Hindi"
+  }
+]
