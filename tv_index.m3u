@@ -14,6 +14,9 @@ https://stevenspalding.github.io/tv/s18_cloud_tv.m3u8
 #EXTINF:0 type="playlist" description="Live TV", BDIX 2
 https://sohag1192.github.io/BDIX-IPTV/iptv-2.m3u
 
+#EXTINF:0 type="playlist" description="Live TV", BDIX 2
+https://stevenspalding.github.io/external/BDIX-272.m3u
+
 #EXTINF:0 type="playlist" description="Live TV", M3U Topaz
 https://stevenspalding.github.io/tv/external/m3u-topaz_vercel.m3u
 
