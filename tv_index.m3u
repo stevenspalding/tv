@@ -5,6 +5,9 @@
 #EXTBG: #ff0000
 https://s.id/freetvbd
 
+#EXTINF:0 type="playlist" description="Live TV", S20 - Jago BD
+https://stevenspalding.github.io/tv/s20_jagobd.m3u8
+
 #EXTINF:0 type="playlist" description="Live TV", S19 - Telescope
 https://stevenspalding.github.io/tv/s19_telescope.m3u8
 
