@@ -31,3 +31,12 @@ https://sohag1192.github.io/BDIX-IPTV/iptv-3.m3u
 
 #EXTINF:0 type="playlist" description="Live TV", BDIX 4
 https://sohag1192.github.io/BDIX-IPTV/iptv-4.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Fan Code
+https://fancode.iptvbd.xyz/
+
+#EXTINF:0 type="playlist" description="Live TV", CrickHD
+https://raw.githubusercontent.com/Najid3/Premium/refs/heads/main/crichd
+
+#EXTINF:0 type="playlist" description="Live TV", AynaOTT
+http://tv.buddyxiptv.com/api/vlc/aynaott-forvlc.m3u

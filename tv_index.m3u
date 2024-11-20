@@ -5,6 +5,9 @@
 #EXTBG: #ff0000
 https://s.id/freetvbd
 
+#EXTINF:0 type="playlist" description="Live TV", S21 - Ayna OTT
+http://tv.buddyxiptv.com/api/vlc/aynaott-forvlc.m3u
+
 #EXTINF:0 type="playlist" description="Live TV", S20 - Jago BD
 https://stevenspalding.github.io/tv/s20_jagobd.m3u8
 
