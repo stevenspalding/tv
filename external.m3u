@@ -40,3 +40,12 @@ https://raw.githubusercontent.com/Najid3/Premium/refs/heads/main/crichd
 
 #EXTINF:0 type="playlist" description="Live TV", AynaOTT
 http://tv.buddyxiptv.com/api/vlc/aynaott-forvlc.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", AynaOTT 2
+https://ayna-api.buddyxiptv.com/api/aynaforvlc.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Pirates TV
+https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Subirmax Pro
+https://raw.githubusercontent.com/subirkumarpaul/Subirmaxpro/refs/heads/main/Subirmaxpro
