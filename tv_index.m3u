@@ -5,6 +5,9 @@
 #EXTBG: #ff0000
 https://s.id/freetvbd
 
+#EXTINF:0 type="playlist" description="Live TV", S23 - MoonPlex
+https://stevenspalding.github.io/tv/s23_moonplex.m3u
+
 #EXTINF:0 type="playlist" description="Live TV", S22 - Pirates TV
 https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 
