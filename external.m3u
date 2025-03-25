@@ -53,5 +53,5 @@ https://raw.githubusercontent.com/subirkumarpaul/Subirmaxpro/refs/heads/main/Sub
 #EXTINF:0 type="playlist" description="Live Sports", Fancode
 https://buddyxiptv.com/fancode/playlist/playlist.m3u
 
-#EXTINF:0 type="playlist" description="Live Sports", Fancode
-http://192.168.1.2:4123/playlist?url=https%3A%2F%2Fraw.githubusercontent.com%2FJeshan-akand%2FToffee-Channels-Link-Headers%2Fmain%2Ftoffee_NS_Player.m3u&epgMerging=true
+#EXTINF:0 type="playlist" description="Live Sports", Toffee
+http://192.168.1.2:4123/playlist?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbyte-capsule%2FToffee-Channels-Link-Headers%2Frefs%2Fheads%2Fmain%2Ftoffee_OTT_Navigator.m3u
