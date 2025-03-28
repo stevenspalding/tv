@@ -1,5 +1,8 @@
 #EXTM3U8
 
+#EXTINF:-1 ,Tsports
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+
 #EXTINF:-1 ,Gazi TV ICC 
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
