@@ -8,6 +8,12 @@ https://s.id/freetvbd
 #EXTINF:0 type="playlist" description="Live TV", Akash Go
 https://akashxpranto.vercel.app/files/akash.m3u
 
+#EXTINF:0 type="playlist" description="Live TV", Ayna OTT
+https://aynaxpranto.vercel.app/files/playlist.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX
+https://is.gd/ttJVuS
+
 #EXTINF:0 type="playlist" description="Live TV", S23 - MoonPlex
 https://stevenspalding.github.io/tv/s23_moonplex.m3u
 
