@@ -1,0 +1,82 @@
+#EXTM3U8 
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - ASN Sports
+http://192.168.1.2:81/hls/hkoscon.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (Premium)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - 9goaltv 1
+https://playing.tunnelcdnsw.net/live/fs1us_720p/index.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", Bein Sports Max
+http://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - C7 Vivo Full HD
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - C7 Vivo HD
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA -  C7 Vivo Low
+https://cntlnk-main-edge-access.secure.footprint.net:443/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA -  Sports 18 HD
+https://vkvsd6.mycdn.me/hls/3236888972007.m3u8/sig/alLQCd-tOhA/expires/1670154323999/srcIp/103.158.131.64/urls/185.226.53.55/clientType/13/srcAg/CHROME_ANDROID/mid/4570406726631/video.m3u8?p
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA -  MBC
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - HD
+https://ns1.tjmbc.co.kr:443/live/myStream.sdp/chunklist_w1493019938.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", BTV
+https://tv.bdflix.xyz/BTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - TyC Sports
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - TSN 1
+https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - FS1 US
+https://sami_rian1@lisa.xonthebeach.net/live/fs1us/index.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - Telemundo HD
+https://v-px.mybtv.net:443/live/39/1280x720.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - Telemundo SD
+https://v-px.mybtv.net:443/live/39/768x432.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (LOW)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (LOW | Premium)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_850.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 2
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 2 (Premium)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_1000.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 2 (LOW)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 2 (LOW | Premium)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-2/master_850.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (SD | Premium)
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_640.m3u8
+
+#EXTINF:0 logo="https://toffeelive.com/assets/images/toffee-icon.png", FIFA - Toffee Live 1 (SD)
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_640.m3u8
+
+#EXTINF:0 logo="https://images.toffeelive.com/images/program/11677/logo/240x240/mobile_logo_175497001669223982.png", FIFA - bein sports 1
+https://lisa.xonthebeach.net/live/beinsportar_720p/index.m3u8
+
+#EXTINF:0 logo="http://172.16.215.142/img/tsports.jpg", FIFA - t-sports 1
+http://172.16.215.142/hls/t-sports.m3u8

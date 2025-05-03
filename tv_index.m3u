@@ -1,0 +1,78 @@
+#EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" description="Live TV and Movies", Free TV BD
+#EXTSIZE: Big
+#EXTBG: #ff0000
+https://s.id/freetvbd
+
+#EXTINF:0 type="playlist" description="Live TV", Akash Go
+https://akashxpranto.vercel.app/files/akash.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Ayna OTT
+https://aynaxpranto.vercel.app/files/playlist.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX
+https://is.gd/ttJVuS
+
+#EXTINF:0 type="playlist" description="Live TV", S23 - MoonPlex
+https://stevenspalding.github.io/tv/s23_moonplex.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", S22 - Pirates TV
+https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", S21 - Ayna OTT
+http://tv.buddyxiptv.com/api/vlc/aynaott-forvlc.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", S20 - Jago BD
+https://stevenspalding.github.io/tv/s20_jagobd.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S19 - Telescope
+https://stevenspalding.github.io/tv/s19_telescope.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S18 - Cloud TV
+https://stevenspalding.github.io/tv/s18_cloud_tv.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 2
+https://sohag1192.github.io/BDIX-IPTV/iptv-2.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 272
+https://stevenspalding.github.io/tv/external/BDIX-272.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", M3U Topaz
+https://stevenspalding.github.io/tv/external/m3u-topaz_vercel.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", S17 - Palki TV
+https://stevenspalding.github.io/tv/s17_palki_tv.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S16 - BDIX Sports
+https://stevenspalding.github.io/tv/s16_bdix_sports.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S15 - India
+https://stevenspalding.github.io/tv/s15_india.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S14 - English
+https://stevenspalding.github.io/tv/s14_english.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S13 - BDIPTV
+https://stevenspalding.github.io/tv/s13_bdiptv.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S12 - Jio TV
+https://stevenspalding.github.io/tv/s12_jiotv.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S11
+https://stevenspalding.github.io/tv/s11.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S10
+https://stevenspalding.github.io/tv/s10.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", S09 - Flixhub
+https://stevenspalding.github.io/tv/s9_flixhub.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", BD
+https://stevenspalding.github.io/tv/bd.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", Fifa
+https://stevenspalding.github.io/tv/fifa.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", Cricket
+https://stevenspalding.github.io/tv/cricket.m3u8

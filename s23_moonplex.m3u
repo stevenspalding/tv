@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Sony_Max.png" group-title="Indian",Sony MAX HD
+http://kst.moonplex.net:8080/CH1/index.m3u8
+
+#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/t-sports.jpg" group-title="Bangladeshi",T Sports HD
+http://kst.moonplex.net:8080/CH2/index.m3u8
+
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/star-jalsha.jpg" group-title="Indian",Star Jalsha HD
+http://kst.moonplex.net:8080/CH3/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
+http://kst.moonplex.net:8080/CH4/index.m3u8
+
+#EXTINF:-1 tvg-name="Depto TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Deepto-tv-live.png" group-title="Bangladeshi",Depto TV HD
+http://kst.moonplex.net:8080/CH5/index.m3u8
+
+#EXTINF:-1 tvg-name="Channel9 HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/channel9-hd.jpg" group-title="Bangladeshi",Channel9 HD
+http://kst.moonplex.net:8080/CH6/index.m3u8
+
+#EXTINF:-1 tvg-name="EKHON TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Ekhon_Logo.png" group-title="Bangladeshi",Ekhon TV HD
+http://kst.moonplex.net:8080/CH7/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC-CBeebies.png" group-title="Indian",BBC Cbeebies
+http://kst.moonplex.net:8080/CH8/index.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Discovery-channel.png" group-title="Indian",Discovery Channel HD
+http://kst.moonplex.net:8080/CH9/index.m3u8
+
+#EXTINF:-1 tvg-name="ARY News HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/ARY-News.jpg" group-title="Pakistan",ARY News HD
+http://kst.moonplex.net:8080/CH10/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/BBC_Earth_logo.png" group-title="Indian",BBC Earth HD
+http://kst.moonplex.net:8080/CH11/index.m3u8
+
+#EXTINF:-1 tvg-name="Duronto TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/duronto-tv.jpg" group-title="Indian",Duronto HD
+http://kst.moonplex.net:8080/CH12/index.m3u8
+
+#EXTINF:-1 tvg-name="9XM HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/9xm.jpg" group-title="Indian",9XM HD
+http://kst.moonplex.net:8080/CH13/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Al-Jazeera.png" group-title="Indian",Al Jazeera HD
+http://kst.moonplex.net:8080/CH14/index.m3u8
+
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/cnn.png" group-title="Indian",CNN HD
+http://kst.moonplex.net:8080/CH15/index.m3u8

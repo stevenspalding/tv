@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.wowza.com/wp-content/uploads/wowz-header-logo-2-1-1-1.png" group-title="Live",WOWZA
+http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Akamai_Technologies%2C_Inc._Logo.png" group-title="Live",Akamai Eight
+https://moctobpltc-i.akamaihd.net/hls/live/571329/eight/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Akamai_Technologies%2C_Inc._Logo.png" group-title="Live",Akamai Test Stream
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8

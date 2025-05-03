@@ -1,0 +1,241 @@
+#EXTM3U8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/bindass.jpeg", S10 - bindass 
+ http://172.16.215.142/hls/bindass.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/utvaction.jpg", S10 - utvaction 
+ http://172.16.215.142/hls/utvaction.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/zoom.jpg", S10 - zoom 
+ http://172.16.215.142/hls/zoom.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/andpictures-hd.jpg", S10 - andpictures 
+ http://172.16.215.142/hls/andpictures.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/colors-tv-hd.jpg", S10 - colore-tv-hd 
+ http://172.16.215.142/hls/colore-tv-hd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/zeecinemahd.jpg", S10 - zeecinemahd 
+ http://172.16.215.142/hls/zeecinemahd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/starplus.jpg", S10 - starplus 
+ http://172.16.215.142/hls/starplus.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/colorscineplex.jpg", S10 - colorscineplex 
+ http://172.16.215.142/hls/colorscineplex.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/utv.jpg", S10 - utv 
+ http://172.16.215.142/hls/utv.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/stargold2hd.png", S10 - stargold2hd 
+ http://172.16.215.142/hls/stargold2hd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sonyen.png", S10 - sonyen 
+ http://172.16.215.142/hls/sonyen.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sony-maxhd.jpg", S10 - sony-maxhd 
+ http://172.16.215.142/hls/sony-maxhd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/zeetv.png", S10 - zeetv 
+ http://172.16.215.142/hls/zeetv.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/dis-science.png", S10 - dis-science 
+ http://172.16.215.142/hls/dis-science.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/stargold.jpg", S10 - stargold 
+ http://172.16.215.142/hls/stargold.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/MBC_2_HD_logo.png", S10 - mbc 
+ http://172.16.215.142/hls/mbc.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/9xm.png", S10 - 9xm 
+ http://172.16.215.142/hls/9xm.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/masti.jpg", S10 - masti 
+ http://172.16.215.142/hls/masti.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/bhojpuri.jpg", S10 - bhojpuri 
+ http://172.16.215.142/hls/bhojpuri.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/dhin.jpg", S10 - dhin 
+ http://172.16.215.142/hls/dhin.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sonypixhd.jpg", S10 - sonypixhd 
+ http://172.16.215.142/hls/sonypixhd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/movies-now.jpg", S10 - movies-now 
+ http://172.16.215.142/hls/movies-now.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/starmovies.jpg", S10 - starmovies 
+ http://172.16.215.142/hls/starmovies.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/bbcearth.jpg", S10 - bbcearth 
+ http://172.16.215.142/hls/bbcearth.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/mn+.jpg", S10 - mn+ 
+ http://172.16.215.142/hls/mn+.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/animalplanent.jpg", S10 - animalplanent 
+ http://172.16.215.142/hls/animalplanent.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/dis.png", S10 - discovery 
+ http://172.16.215.142/hls/discovery.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/Nat_Geo_HD.png", S10 - ngohd 
+ http://172.16.215.142/hls/ngohd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/tlc.jpeg", S10 - tlc 
+ http://172.16.215.142/hls/tlc.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/wild.png", S10 - wild 
+ http://172.16.215.142/hls/wild.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/starhd.jpg", S10 - star-worldhd 
+ http://172.16.215.142/hls/star-worldhd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/mnx-hd.jpg", S10 - mnx-hd 
+ http://172.16.215.142/hls/mnx-hd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/bbcworld.jpg", S10 - bbcworld 
+ http://172.16.215.142/hls/bbcworld.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/aljazeera.jpg", S10 - aljazeera 
+ http://172.16.215.142/hls/aljazeera.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/axn.jpeg", S10 - axn 
+ http://172.16.215.142/hls/axn.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/lotus.png", S10 - lotus 
+ http://172.16.215.142/hls/lotus.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/Sony-six-hd.png", S10 - sonysix 
+ http://172.16.215.142/hls/sonysix.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/star_sports3.jpg", S10 - starsports3 
+ http://172.16.215.142/hls/starsports3.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/Star_Sports_Select_1_HD.jpg", S10 - Star_Sport_Select1HD 
+ http://172.16.215.142/hls/Star_Sport_Select1HD.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/stersports1hd.jpg", S10 - stersports1hd 
+ http://172.16.215.142/hls/stersports1hd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/ster-sport-2hd.png", S10 - starsports2 
+ http://172.16.215.142/hls/starsports2.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sonyten3.jpg", S10 - sonyten3 
+ http://172.16.215.142/hls/sonyten3.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/select2.jpg", S10 - select2 
+ http://172.16.215.142/hls/select2.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sony_ten_2.jpg", S10 - sonyten2 
+ http://172.16.215.142/hls/sonyten2.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sony_ten_1.jpg", S10 - sonyten1 
+ http://172.16.215.142/hls/sonyten1.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/tsports.jpg", S10 - t-sports 
+ http://172.16.215.142/hls/t-sports.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/ten_sports.jpg", S10 - ten 
+ http://172.16.215.142/hls/ten.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/ptv.jpg", S10 - ptv 
+ http://172.16.215.142/hls/ptv.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sunbangla.jpg", S10 - sunbangla 
+ http://172.16.215.142/hls/sunbangla.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/indepen.png", S10 - indepen 
+ http://172.16.215.142/hls/indepen.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/Sony_Aath.png", S10 - Sony_Aath 
+ http://172.16.215.142/hls/Sony_Aath.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/gtv.jpg", S10 - Gazi-TV 
+ http://172.16.215.142/hls/Gazi-TV.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/travelxphd.jpg", S10 - travelxp 
+ http://172.16.215.142/hls/travelxp.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/71.jpg", S10 - nexus 
+ http://172.16.215.142/hls/nexus.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/channeli.jpg", S10 - channeli 
+ http://172.16.215.142/hls/channeli.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/maasranga.jpg", S10 - masranga 
+ http://172.16.215.142/hls/masranga.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/somoytv.jpg", S10 - somoy 
+ http://172.16.215.142/hls/somoy.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/Zee_Bangla_Cinema.jpg", S10 - zee-bangla-cinema 
+ http://172.16.215.142/hls/zee-bangla-cinema.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/colore-bangla-cinema.jpg", S10 - colore-bangla-cinema 
+ http://172.16.215.142/hls/colore-bangla-cinema.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/jalsha_movies.jpg", S10 - jalshamovies 
+ http://172.16.215.142/hls/jalshamovies.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/colorsbangla.jpg", S10 - colorsbangla 
+ http://172.16.215.142/hls/colorsbangla.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/zeebanglahd.jpg", S10 - zeebanglahd 
+ http://172.16.215.142/hls/zeebanglahd.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/starjalsha.jpg", S10 - starjalsha 
+ http://172.16.215.142/hls/starjalsha.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sangeet.png", S10 - sangeetbangla 
+ http://172.16.215.142/hls/sangeetbangla.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/akash8.jfif", S10 - akash 
+ http://172.16.215.142/hls/akash.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/enterr10.jpeg", S10 - enterr10 
+ http://172.16.215.142/hls/enterr10.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/khushboo.jpg", S10 - khushboo 
+ http://172.16.215.142/hls/khushboo.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/jamuna.jpg", S10 - jamuna 
+ http://172.16.215.142/hls/jamuna.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/gb.png", S10 - gb 
+ http://172.16.215.142/hls/gb.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/duranta.jpg", S10 - duranta 
+ http://172.16.215.142/hls/duranta.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/nagorik.jpg", S10 - nagoriktv 
+ http://172.16.215.142/hls/nagoriktv.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/atntv.png", S10 - atn 
+ http://172.16.215.142/hls/atn.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/banglavision.jpg", S10 - banglavision 
+ http://172.16.215.142/hls/banglavision.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/ntv.jpg", S10 - ntv 
+ http://172.16.215.142/hls/ntv.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/sonyyay.jpg", S10 - dis-kid 
+ http://172.16.215.142/hls/dis-kid.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/nick.jpg", S10 - nick 
+ http://172.16.215.142/hls/nick.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/cn.png", S10 - cn 
+ http://172.16.215.142/hls/cn.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/pogo.jpg", S10 - pogo 
+ http://172.16.215.142/hls/pogo.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/madani.jpg", S10 - madani 
+ http://172.16.215.142/hls/madani.m3u8 
+  
+ #EXTINF:0 logo="http://172.16.215.142/img/quraantv.jpg", S10 - qurqntv 
+ http://172.16.215.142/hls/qurqntv.m3u8

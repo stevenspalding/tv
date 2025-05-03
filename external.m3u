@@ -1,0 +1,57 @@
+#EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" description="Live TV and Movies", Free TV BD
+#EXTSIZE: Big
+#EXTBG: #ff0000
+https://s.id/freetvbd
+
+#EXTINF:0 type="playlist" description="Live TV", Eamin
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Eaminvai.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Aniket
+https://raw.githubusercontent.com/aniketda/iptv2050/main/iptv
+
+#EXTINF:0 type="playlist" description="Live TV", Subir
+https://raw.githubusercontent.com/subirkumarpaul/All-TV/main/All%20TV
+
+#EXTINF:0 type="playlist" description="Live TV", Discover TV
+https://raw.githubusercontent.com/subirkumarpaul/Subir-Max/master/Discover%20TV
+
+#EXTINF:0 type="playlist" description="Live TV", Yamin 2.0
+https://raw.githubusercontent.com/eaminvai/eaminiptv/Master/Yamin%202.0.m3u8
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 1
+https://sohag1192.github.io/BDIX-IPTV/iptv-1.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 2
+https://sohag1192.github.io/BDIX-IPTV/iptv-2.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 3
+https://sohag1192.github.io/BDIX-IPTV/iptv-3.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", BDIX 4
+https://sohag1192.github.io/BDIX-IPTV/iptv-4.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Fan Code
+https://fancode.iptvbd.xyz/
+
+#EXTINF:0 type="playlist" description="Live TV", CrickHD
+https://raw.githubusercontent.com/Najid3/Premium/refs/heads/main/crichd
+
+#EXTINF:0 type="playlist" description="Live TV", AynaOTT
+http://tv.buddyxiptv.com/api/vlc/aynaott-forvlc.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", AynaOTT 2
+https://ayna-api.buddyxiptv.com/api/aynaforvlc.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Pirates TV
+https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+
+#EXTINF:0 type="playlist" description="Live TV", Subirmax Pro
+https://raw.githubusercontent.com/subirkumarpaul/Subirmaxpro/refs/heads/main/Subirmaxpro
+
+#EXTINF:0 type="playlist" description="Live Sports", Fancode
+https://buddyxiptv.com/fancode/playlist/playlist.m3u
+
+#EXTINF:0 type="playlist" description="Live Sports", Toffee
+http://192.168.1.2:4123/playlist?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbyte-capsule%2FToffee-Channels-Link-Headers%2Frefs%2Fheads%2Fmain%2Ftoffee_OTT_Navigator.m3u

@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1ae062c88f455fc7cf6fec1039c2f785" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png" tvg-chno="1" group-title="Sports - English",Star Sports 1 HD
+https://fifabd.xyz/CRIC/master.php?id=1ae062c88f455fc7cf6fec1039c2f785&e=.m3u8
+#EXTINF:-1 tvg-id="c4fc10f343784f045b9b40e8c342241d" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png" tvg-chno="2" group-title="Sports - Hindi",Star Sports 1 Hindi HD
+https://fifabd.xyz/CRIC/master.php?id=c4fc10f343784f045b9b40e8c342241d&e=.m3u8
+#EXTINF:-1 tvg-id="14b50855c25c4ab2114a4de00cebe760" tvg-name="Willow HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png" tvg-chno="4" group-title="Sports - English",Willow HD
+https://fifabd.xyz/CRIC/master.php?id=14b50855c25c4ab2114a4de00cebe760&e=.m3u8
+#EXTINF:-1 tvg-id="425059d92d1bdab653cba296a88fd0ff" tvg-name="TEN Sports Pakistan" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png" tvg-chno="6" group-title="Sports - English",TEN Sports Pakistan
+https://fifabd.xyz/CRIC/master.php?id=425059d92d1bdab653cba296a88fd0ff&e=.m3u8
+#EXTINF:-1 tvg-id="7b32d768e7d08e0552c492131dba9796" tvg-name="Willow Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png" tvg-chno="7" group-title="Sports - English",Willow Xtra
+https://fifabd.xyz/CRIC/master.php?id=7b32d768e7d08e0552c492131dba9796&e=.m3u8
+#EXTINF:-1 tvg-id="ca67f7766114b88216a9cedbf23d846e" tvg-name="A Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png" tvg-chno="8" group-title="Sports - English",A Sports HD
+https://fifabd.xyz/CRIC/master.php?id=ca67f7766114b88216a9cedbf23d846e&e=.m3u8
+#EXTINF:-1 tvg-id="054d71bb25ea273d317844be00dec11d" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png" tvg-chno="11" group-title="Sports - English",Sky Sports Cricket
+https://fifabd.xyz/CRIC/master.php?id=054d71bb25ea273d317844be00dec11d&e=.m3u8
+#EXTINF:-1 tvg-id="ea3ebdfdd1a0e5772aa4ba8106726611" tvg-name="Sky Sports Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png" tvg-chno="12" group-title="Sports - English",Sky Sports Action
+https://fifabd.xyz/CRIC/master.php?id=ea3ebdfdd1a0e5772aa4ba8106726611&e=.m3u8
+#EXTINF:-1 tvg-id="ad4cea504a00e532d8afe8fc08bdfab3" tvg-name="Sky Sports Premier League" tvg-country="IN" tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png" tvg-chno="14" group-title="Sports - English",Sky Sports Premier League
+https://fifabd.xyz/CRIC/master.php?id=ad4cea504a00e532d8afe8fc08bdfab3&e=.m3u8
+#EXTINF:-1 tvg-id="d96555cfd390267e67d82ee1d33ef7a0" tvg-name="Sky Sports Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png" tvg-chno="15" group-title="Sports - English",Sky Sports Football
+https://fifabd.xyz/CRIC/master.php?id=d96555cfd390267e67d82ee1d33ef7a0&e=.m3u8
+#EXTINF:-1 tvg-id="0996b06ce8928da5fd463e8692d846a0" tvg-name="Sky Sports Arena" tvg-country="IN" tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png" tvg-chno="16" group-title="Sports - English",Sky Sports Arena
+https://fifabd.xyz/CRIC/master.php?id=0996b06ce8928da5fd463e8692d846a0&e=.m3u8
+#EXTINF:-1 tvg-id="573edd07d0c66e24982f36d138b43814" tvg-name="Sky Sports F1" tvg-country="IN" tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png" tvg-chno="17" group-title="Sports - English",Sky Sports F1
+https://fifabd.xyz/CRIC/master.php?id=573edd07d0c66e24982f36d138b43814&e=.m3u8
+#EXTINF:-1 tvg-id="a786d65d6b39193abc758dd0793de2a5" tvg-name="Sky Sports Mix" tvg-country="IN" tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png" tvg-chno="18" group-title="Sports - English",Sky Sports Mix
+https://fifabd.xyz/CRIC/master.php?id=a786d65d6b39193abc758dd0793de2a5&e=.m3u8
+#EXTINF:-1 tvg-id="6a1141594ee5ceab5e769f5995459a70" tvg-name="Sky Sports News" tvg-country="IN" tvg-logo="https://i.postimg.cc/htmSmN6n/Sky-Sports-News.png" tvg-chno="19" group-title="Sports - English",Sky Sports News
+https://fifabd.xyz/CRIC/master.php?id=6a1141594ee5ceab5e769f5995459a70&e=.m3u8
+#EXTINF:-1 tvg-id="2df691f07b22ba99778d1684eb860757" tvg-name="BT Sport 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png" tvg-chno="21" group-title="Sports - English",BT Sport 2
+https://fifabd.xyz/CRIC/master.php?id=2df691f07b22ba99778d1684eb860757&e=.m3u8
+#EXTINF:-1 tvg-id="e74e2465d1c4cac2de7c3c49aaa9592f" tvg-name="BT Sport 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png" tvg-chno="22" group-title="Sports - English",BT Sport 3/ tnt
+https://fifabd.xyz/CRIC/master.php?id=e74e2465d1c4cac2de7c3c49aaa9592f&e=.m3u8
+#EXTINF:-1 tvg-id="2d10cd22aa2ab6d26408a0fe2cc788ce" tvg-name="BT Sport 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png" tvg-chno="23" group-title="Sports - English",BT Sport 4
+https://fifabd.xyz/CRIC/master.php?id=2d10cd22aa2ab6d26408a0fe2cc788ce&e=.m3u8
+#EXTINF:-1 tvg-id="ae270065146b68f8225bb571ce29b1d4" tvg-name="Fox Sports 502 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="27" group-title="Sports - English",Fox Sports 502 HD
+https://fifabd.xyz/CRIC/master.php?id=ae270065146b68f8225bb571ce29b1d4&e=.m3u8
+#EXTINF:-1 tvg-id="99704f044d7d2e6be8b5ac9ae3718466" tvg-name="Fox Sports 504 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="29" group-title="Sports - English",Fox Sports 504 HD
+https://fifabd.xyz/CRIC/master.php?id=99704f044d7d2e6be8b5ac9ae3718466&e=.m3u8
+#EXTINF:-1 tvg-id="5b56e23b81b805d521aa5116c8aea041" tvg-name="Premier Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" tvg-chno="33" group-title="Sports - English",Premier Sports 1
+https://fifabd.xyz/CRIC/master.php?id=5b56e23b81b805d521aa5116c8aea041&e=.m3u8
+#EXTINF:-1 tvg-id="c4237cc4b5f54a8d517cd8630f32aeee" tvg-name="Premier Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/wjFZrVSP/Premier-Sports.png" tvg-chno="34" group-title="Sports - English",Premier Sports 2
+https://fifabd.xyz/CRIC/master.php?id=c4237cc4b5f54a8d517cd8630f32aeee&e=.m3u8
+#EXTINF:-1 tvg-id="0aa00dadf82f57e48ec094d235c637cc" tvg-name="SuperSport Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png" tvg-chno="42" group-title="Sports - English",SuperSport Football
+https://fifabd.xyz/CRIC/master.php?id=0aa00dadf82f57e48ec094d235c637cc&e=.m3u8
+#EXTINF:-1 tvg-id="b3943d0e57072defe4279fb1f04b5c86" tvg-name="SuperSport Premier" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png" tvg-chno="43" group-title="Sports - English",SuperSport Premier
+https://fifabd.xyz/CRIC/master.php?id=b3943d0e57072defe4279fb1f04b5c86&e=.m3u8
+#EXTINF:-1 tvg-id="7f1e38f599f7964363f48aab8aee2511" tvg-name="SuperSport Laliga" tvg-country="IN" tvg-logo="https://i.postimg.cc/FR6cP7b8/Super-Sport-La-Liga.png" tvg-chno="44" group-title="Sports - English",SuperSport Laliga
+https://fifabd.xyz/CRIC/master.php?id=7f1e38f599f7964363f48aab8aee2511&e=.m3u8
+#EXTINF:-1 tvg-id="6ff312fd796008ff2af73bbffe5a8f82" tvg-name="SuperSport Grandstand" tvg-country="IN" tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstand.png" tvg-chno="46" group-title="Sports - English",SuperSport Grandstand
+https://fifabd.xyz/CRIC/master.php?id=6ff312fd796008ff2af73bbffe5a8f82&e=.m3u8
+#EXTINF:-1 tvg-id="77df99fe3ce533583d4d07b519430e71" tvg-name="SuperSport Maximo" tvg-country="IN" tvg-logo="https://i.postimg.cc/4xw164Mk/Super-Sport-Maximo.png" tvg-chno="50" group-title="Sports - English",SuperSport Maximo
+https://fifabd.xyz/CRIC/master.php?id=77df99fe3ce533583d4d07b519430e71&e=.m3u
+#EXTINF:-1 tvg-id="831afdd8f6449bed53df4448e7b02f61" tvg-name="SuperSport Variety 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png" tvg-chno="61" group-title="Sports - English",SuperSport Variety 1
+https://fifabd.xyz/CRIC/master.php?id=831afdd8f6449bed53df4448e7b02f61&e=.m3u8
+#EXTINF:-1 tvg-id="d93c1141b93cedf3a3d83dd6776081c1" tvg-name="SuperSport Variety 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png" tvg-chno="62" group-title="Sports - English",SuperSport Variety 2
+https://fifabd.xyz/CRIC/master.php?id=d93c1141b93cedf3a3d83dd6776081c1&e=.m3u8
+#EXTINF:-1 tvg-id="07ecfef5e99674d167af5030ccf28854" tvg-name="SuperSport Variety 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png" tvg-chno="63" group-title="Sports - English",SuperSport Variety 3
+https://fifabd.xyz/CRIC/master.php?id=07ecfef5e99674d167af5030ccf28854&e=.m3u8
+#EXTINF:-1 tvg-id="957cWb1db00b19387aeb318296adab1d" tvg-name="SuperSport Variety 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" tvg-chno="64" group-title="Sports - English",SuperSport Variety 4
+https://fifabd.xyz/CRIC/master.php?id=957cWb1db00b19387aeb318296adab1d&e=.m3u8
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png" group-title="SPORTS",MU TV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8w
