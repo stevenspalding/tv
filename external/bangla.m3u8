@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1,NTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1,Channel I
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1,Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,RTV
+http://103.163.247.39:80/local_out/rtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Desh Tv
+http://103.163.247.39:80/local_out/deshtv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Somoy Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1,Independent TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1,Maasranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Channel 24
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1,Atn news
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1,Ekattor Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1,Asian Tv
+http://103.163.247.39:80/local_out/asiantv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,SA TV
+http://103.163.247.39:80/local_out/satv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1,Jamuna Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1,Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1,BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8?v=1
+#EXTINF:-1,MY Tv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1,T Sports
+http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1,PTV
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1,Star Jalsha
+http://kst.moonplex.net:8080/CH3/index.m3u8
+#EXTINF:-1,Zee Bangla
+http://kst.moonplex.net:8080/CH4/index.m3u8
+#EXTINF:-1,Zee Bangla HD
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1,Sony aath
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+#EXTINF:-1,Entar 10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1,Jugnu Kids Bangla
+https://ythls.armelin.one/channel/UCWyfOC7fLxYch3IkQ58fMrA.m3u8
+#EXTINF:-1,Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
