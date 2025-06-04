@@ -5,6 +5,9 @@
 #EXTBG: #ff0000
 https://s.id/freetvbd
 
+#EXTINF:0 type="playlist" description="Live TV", Combined IPTV
+https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+
 #EXTINF:0 type="playlist" description="Live TV", Akash Go
 https://akashxpranto.vercel.app/files/akash.m3u
 
